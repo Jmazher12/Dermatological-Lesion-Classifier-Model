@@ -83,6 +83,7 @@ The dataset used in this project is:
 
 - https://www.fc.up.pt/addi/ph2%20database.html
 - This weblink will take you to the site where you can download the 'PH2 Dataset'
+- Alternatively, you can go to the 'Code' section to find a link to a Google Drive folder containing the data.
 
 ---
 
